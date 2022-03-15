@@ -1,0 +1,6 @@
+
+//Consumo api rick and morty
+
+    1. Consumir la API y obtener cuántos personajes hay en total.
+    2. Obtener el nombre de cada personaje.
+    3. Obtener el nombre de la Dimensión a la cual pertenece cada personaje.
