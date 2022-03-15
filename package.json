@@ -1,0 +1,28 @@
+{
+  "name": "asincronismos",
+  "version": "1.0.0",
+  "description": "trabajar con asincronimos en JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "callback:challenge": "node src/callback/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxelMoncada/Api--Rick-and-Morty.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AxelMoncada/Api--Rick-and-Morty/issues"
+  },
+  "homepage": "https://github.com/AxelMoncada/Api--Rick-and-Morty#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
