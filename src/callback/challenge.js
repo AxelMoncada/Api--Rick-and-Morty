@@ -34,3 +34,6 @@ fetchData(API, function (error1, data1){
         })
     })
 })
+
+// Promesas apis 
+
